@@ -1,9 +1,9 @@
-<div dir="rtl", style = "font-family:Yas;font-size:16px;font-style:italic;">
-    <h1>
+<div dir="rtl",>
+<h1 style = "font-family:Yas;font-size:16px;">
 قالب کتاب
-    </h1>
+</h1>
 
-<p>
+<p style = "font-family:Yas;font-size:16px;">
 هربار کتاب یا رمانی می‌خوندم
 همیشه کنجکاور می‌شدم که بدونم چطوری کتاب‌ها نوشته شده‌اند
 </p>
