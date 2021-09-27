@@ -1,5 +1,5 @@
 ---
-language: Persian
+Language: Persian
 ---
 
 # قالب کتاب
