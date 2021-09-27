@@ -1,4 +1,4 @@
-<div dir="rtl", style = "font-family:georgia,garamond,serif;font-size:16px;font-style:italic;">
+<div dir="rtl", style = "font-family:Yas;font-size:16px;font-style:italic;">
     <h1>
 قالب کتاب
     </h1>
