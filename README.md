@@ -38,6 +38,6 @@
 
 ## Screenshot
 
-![1](test-2.png)
-![2](test-3.png)
-![3](test-4.png)
+![1](shots/test-2.png)
+![2](shots/test-3.png)
+![3](shots/test-4.png)
