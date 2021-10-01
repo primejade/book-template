@@ -1,3 +1,4 @@
+<!-- begin right-to-left -->
 <div dir="rtl",>
 <h1>
 قالب کتاب
@@ -25,7 +26,7 @@
 </b>
 کتاب رو از 
 <a href="http://parsilatex.com/examples/">نمونه‌مثال‌های زی‌پرشین</a>
-پیدا کردم و یک سری تغییرات توشون دادم
+پیدا کردم، یک سری تغییرات توشون دادم و کنار همدیگه گزاشتم‌شون
 </p>
 
 <p>
@@ -41,3 +42,4 @@
 ![1](shots/test-2.png)
 ![2](shots/test-3.png)
 ![3](shots/test-4.png)
+<!-- end right-to-left -->
